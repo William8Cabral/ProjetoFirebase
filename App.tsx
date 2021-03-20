@@ -18,7 +18,7 @@ const App: React.FC = () => {
 
   return (
     <View style={{paddingTop: 50, paddingLeft: 50}}>
-      <Text>oi</Text>
+      <Text>oi eae</Text>
     </View>
   );
 };
